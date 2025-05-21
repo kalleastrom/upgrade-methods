@@ -106,3 +106,4 @@ codegen/
 octave-workspace
 
 # End of https://www.gitignore.io/api/c,c++,matlab
+.DS_Store
